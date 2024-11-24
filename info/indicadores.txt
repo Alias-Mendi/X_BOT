@@ -1,0 +1,44 @@
+Indicadores de Tendencia y Momentum:
+SMA (Media Móvil Simple):
+SMA 20 (corto plazo)
+SMA 50 (medio plazo)
+SMA 200 (largo plazo)
+RSI (Índice de Fuerza Relativa)
+MACD (Convergencia/Divergencia de la Media Móvil)
+ADX (Índice de Movimiento Direccional Promedio)
+Estocástico
+Momentum
+CCI (Commodity Channel Index)
+ROC (Rate of Change)
+Williams %R
+Vortex Indicator (VI)
+Indicadores de Volatilidad:
+Bollinger Bands
+ATR (Rango Verdadero Promedio)
+Historical Volatility (HV)
+Keltner Channels
+Chaikin Volatility
+Indicadores basados en Volumen:
+Volume SMA 20
+OBV (On-Balance Volume)
+Money Flow Index (MFI)
+Chaikin Money Flow (CMF)
+Accumulation/Distribution Line (A/D Line)
+Ease of Movement (EOM)
+Soporte/Resistencia y Retrocesos:
+Fibonacci Retracements
+Pivot Points extendidos
+Donchian Channels
+Gann Levels
+Indicadores basados en Precio:
+Heikin-Ashi Candles
+Parabolic SAR
+Average Price
+Otros Indicadores Avanzados:
+DMI (Directional Movement Index)
+Trix (Triple Smoothed Exponential Moving Average)
+Ultimate Oscillator
+Connors RSI
+Indicadores de Tiempo y Ciclos:
+Fourier Transform
+Ehlers Fisher Transform
